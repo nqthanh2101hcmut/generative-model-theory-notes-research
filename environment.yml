@@ -1,0 +1,12 @@
+name: generative-model-theory
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+      - torch

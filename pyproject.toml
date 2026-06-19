@@ -1,0 +1,11 @@
+[project]
+name = "generative-model-theory-notes"
+version = "0.1.0"
+description = "Notes and toy code for optimization, probability, OT, diffusion, and flow generative model theory."
+requires-python = ">=3.10"
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
